@@ -13,6 +13,8 @@
 
 Horiseon, an SEO service, needed the code for their home page refactored. This was achieved by adding semantic tags and accessibility features to the HTML, as well as consolidating and organizing the CSS, while also addressing functionality issues, such as broken links. The result is the same visual result achieved by cleaner and better-functioning code. 
 
+The finished product has been deployed on Github, and can be viewed here: https://tomekregulski.github.io/hw_01/
+
 # Details
 
 This project is the result of a work order to refactor code for the home page for Horiseon, a company providing SEO, Awareness and Growth services for a variety of brands. 
