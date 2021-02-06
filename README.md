@@ -1,4 +1,4 @@
-01 HTML CSS Git: code Refactor
+Columbia Coding Boot Camp - Homework 01 - HTML CSS Git: code Refactor
 
 * [Abstract](#abstract)
 * [Details ](#details)
@@ -11,7 +11,7 @@
 
 # Abstract
 
-Horiseon, an SEO service, needed the code for their home page refactored. This was achieved by adding semantic tags and accessibility features to the HTML, as well as consolidating and organizing the CSS, while also addressing functionality issues, such as broken links. The result is the same visual result achieved by cleaner and better-functioning code. 
+In this assignment, Horiseon, an SEO service, needs the code for their home page refactored. This was achieved by adding semantic tags and accessibility features to the HTML, as well as consolidating and organizing the CSS, while also addressing functionality issues, such as broken links. The result is the same visual result achieved by cleaner and better-functioning code. 
 
 The finished product has been deployed on Github, and can be viewed here: https://tomekregulski.github.io/hw_01/
 
