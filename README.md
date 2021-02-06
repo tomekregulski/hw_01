@@ -38,4 +38,4 @@ As such, I hope that this project stands out as utilizing a much DRY'er code to 
 
 # Installation
 
-Clone the entire Git and open the folder in any code editor. From there, open the index.html in a browser to view the final product. 
+Clone the repo and open the index.html in any browser to view the page. 
