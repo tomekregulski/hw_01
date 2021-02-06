@@ -2,7 +2,7 @@
 
 * [Abstract](#abstract)
 * [Details ](#details)
-* [Learned](#learned)
+* [What I Learned](#what-i-learned)
 * [Installation and Usage](#installation)
 * [License](#license)
 
@@ -11,7 +11,7 @@
 
 # Abstract
 
-Horiseon, a brand growth service, needed the code for their home page refactored. This was achieved by adding semantic tags and accessibility features to the HTML, as well as consolidating and organizing the CSS, while also addressing minor functionality issues, such as broken links. The result is the same visual result achieved by cleaner and better-functioning code. 
+Horiseon, an SEO service, needed the code for their home page refactored. This was achieved by adding semantic tags and accessibility features to the HTML, as well as consolidating and organizing the CSS, while also addressing functionality issues, such as broken links. The result is the same visual result achieved by cleaner and better-functioning code. 
 
 # Details
 
@@ -19,15 +19,15 @@ This project is the result of a work order to refactor code for the home page fo
 
 The issue was that, while the visual result of the page was hitting their mark, the code itself was missing semantic elements, made use of unnecessary CSS classes, and lacked crucial accessibility features. 
 
-The code in this Git represents the results of my work addressing these issues. 
+The code in this repo represents the results of my work addressing these issues. 
 
-Semantic HTML was applied in all instances that seemed appropriate, which also allowed for the removal of almost all CSS class names. I also added in the required alt text for all images, and fixed a broken nav link. This results in HTML code that reads clearly from top to bottom, and should present no issues for those accessing the page through assistive technology. 
+Semantic HTML was applied in all instances that seemed appropriate, which also allowed for the removal of many CSS class names. I also added in the required alt text for all images, and fixed a broken nav link. This results in HTML code that reads clearly from top to bottom, and should present no issues for those accessing the page through assistive technology. 
 
 Likewise, the CSS style sheet, though technically functional, was in need of refactoring, consolidation, and organization. Updating the HTML with semantic tags allowed for the CSS code to directly tag unique elements, rather than rely on class names (for the most part). Once this was updated, I organized the code into clear sections and consolidated it wherever possible to ensure a DRY approach to coding.
 
 All of this work was completed with the page loaded through a live server, so I could be sure that the styling and organization of the page was preserved with every change that I made. 
 
-# Learned
+# What I Learned
 
 This project helped solidfy in my mind how semantic HTML can be applied, and how it makes the code itself much cleaner and readable, in addition to the benefits it provides for those accessing the page with assistive technology, as well as how the page performs in search results. 
 
