@@ -6,8 +6,7 @@
 * [Installation and Usage](#installation-and-usa)
 * [License](#license)
 
-![homepage nav](assets/images/demo1.png)
-![homepage main](assets/images/demo1.png)
+![homepage main](assets/images/demo2.png)
 
 # Abstract
 
