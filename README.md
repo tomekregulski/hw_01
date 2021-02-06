@@ -20,7 +20,7 @@ The code in this Git represents the results of my work addressing these issues.
 
 Semantic HTML was applied in all instances that seemed appropriate, which also allowed for the removal of almost all CSS class names. I also added in the required alt text for all images, and fixed a broken nav link. This results in HTML code that reads clearly from top to bottom, and should present no issues for those accessing the page through assistive technology. 
 
-Likewise, the CSS style sheet, though technically functional, was in need of refactoring, consolidation, and organization. Updating the HTML with semantic tags allowed for the CSS code to directly tag unique elements, rather than rely on class names (for the most part). Once this was updated, I organized the code into clear sections and consolidated it wherever possible to ensure that it was DRY. 
+Likewise, the CSS style sheet, though technically functional, was in need of refactoring, consolidation, and organization. Updating the HTML with semantic tags allowed for the CSS code to directly tag unique elements, rather than rely on class names (for the most part). Once this was updated, I organized the code into clear sections and consolidated it wherever possible to ensure a DRY approach to coding.
 
 All of this work was completed with the page loaded through a live server, so I could be sure that the styling and organization of the page was preserved with every change that I made. 
 
