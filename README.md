@@ -8,7 +8,7 @@
 
 # Abstract
 
-Horiseon, a brand growth service, needed the code for their home page refactored. This was achieved by adding semantic tags and accessibility features to the HTML, as well as consolidating and organizing the CSS, while also addressing minor functionality issues. The result is the same visual result achieved by cleaner and better-functioning code. 
+Horiseon, a brand growth service, needed the code for their home page refactored. This was achieved by adding semantic tags and accessibility features to the HTML, as well as consolidating and organizing the CSS, while also addressing minor functionality issues, such as broken links. The result is the same visual result achieved by cleaner and better-functioning code. 
 
 # Details
 
